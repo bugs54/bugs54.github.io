@@ -1,0 +1,23 @@
+body {
+    background-color: #fff9f1;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fff1de;
+    position: absolute;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+h1 {
+    color: #000000;
+}
+
+#header_name {
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 1%;
+}
