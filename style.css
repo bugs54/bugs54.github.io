@@ -18,6 +18,32 @@ h1 {
 }
 
 #header_name {
-    font-family: 'Courier New', Courier, monospace;
-    padding-left: 1%;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 1.3em;
+    padding: 0.2em 0;
+	margin: 0.5em;
+	float: left;
+}
+
+.page_button {
+	background-color: #d7c5ad;
+	font-family: 'Courier New', Courier, monospace;
+	font-style: bold;
+	font-size: 1.3em;
+	float: right;
+	border: none;
+	padding: 0.2em 1.78em;
+	text-align: center;
+	margin: 0.5em;
+	border-radius: 0.36em;
+	cursor: pointer;
+	
+}
+
+.page_button:hover {
+	background-color: #d2c1a9;
+	padding: 0.21em 1.79em;
+	margin: 0.49em;
+	box-shadow: 0em 0em 0.4em -0.2em #464443;
+	
 }
